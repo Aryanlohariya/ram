@@ -1,2 +1,2 @@
 # ram
-for practice
+For practice of git and git hub
