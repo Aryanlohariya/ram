@@ -1,1 +1,3 @@
 Today i have learned how to user github
+how to make repository
+how to commit changes 
